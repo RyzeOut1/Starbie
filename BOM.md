@@ -20,7 +20,7 @@
 | [10k Resistors](https://www.amazon.ca/HUABAN-Lot-r%C3%A9sistances-film-carbone/dp/B0BRG12S6Y/ref=sr_1_2_sspa?__mk_fr_CA=%C3%85M%C3%85%C5%BD%C3%95%C3%91&crid=EC20ORMXPY61&dib=eyJ2IjoiMSJ9.4VSn28md43cAKy4dw_PxeECWiFDfonwBvuH_nn0aYQJOeb8z6OnxJycps4lg3uQXF88mkAL-Kt8dPHDbE7WRkW2OpjTDOVvdHQLF6u57Yhs78qbU3sexbHSxyA8k5R7RRzpeXUqEMrsXnaryyIoIvJEB5ke_mI-ddmAjVzdT_aw7dew7r5vvC0XkOnXHFUVWwZjXiadE2BUCFd5JhCahRWdZzOFl9tPakBnb0PFz3J7Z-Hy-tkzyzRo2cCWSP8q8VNk0RR8_TtDXSN4pL3WH-fmhap9mkBpXmMjoFdoHa5U.31BoYaEzli6WFPtB_Ok0gGgmIJdW0CeiD2A34doj9P8&dib_tag=se&keywords=10k%2BResistor&qid=1791258979&sprefix=10k%2Bresistor%2Caps%2C123&sr=8-2-spons&sp_csd=d2lkZ2V0TmFtZT1zcF9hdGY&th=1) | Pull-up resistors for circuit stability | 1 | $8.00 | $8.00 | [HUABAN](https://www.amazon.ca/HUABAN-Lot-r%C3%A9sistances-film-carbone/dp/B0BRG12S6Y/ref=sr_1_2_sspa?__mk_fr_CA=%C3%85M%C3%85%C5%BD%C3%95%C3%91&crid=EC20ORMXPY61&dib=eyJ2IjoiMSJ9.4VSn28md43cAKy4dw_PxeECWiFDfonwBvuH_nn0aYQJOeb8z6OnxJycps4lg3uQXF88mkAL-Kt8dPHDbE7WRkW2OpjTDOVvdHQLF6u57Yhs78qbU3sexbHSxyA8k5R7RRzpeXUqEMrsXnaryyIoIvJEB5ke_mI-ddmAjVzdT_aw7dew7r5vvC0XkOnXHFUVWwZjXiadE2BUCFd5JhCahRWdZzOFl9tPakBnb0PFz3J7Z-Hy-tkzyzRo2cCWSP8q8VNk0RR8_TtDXSN4pL3WH-fmhap9mkBpXmMjoFdoHa5U.31BoYaEzli6WFPtB_Ok0gGgmIJdW0CeiD2A34doj9P8&dib_tag=se&keywords=10k%2BResistor&qid=1791258979&sprefix=10k%2Bresistor%2Caps%2C123&sr=8-2-spons&sp_csd=d2lkZ2V0TmFtZT1zcF9hdGY&th=1) |
 | [PCB](https://www.pcbway.com/QuickOrderOnline.aspx) | The base ! | 1 | $5.00 | $5.00 | [PCB WAY](https://www.pcbway.com/QuickOrderOnline.aspx) |
 | **Parts subtotal** | — | — | — | **$62.20** | — |
-| **Tax & shipping** | — | — | — | **$34.05** | — |
-| **Total** | — | — | — | **$96.25** | — |
+| **Tax & shipping** | — | — | — | **$34.30** | — |
+| **Total** | — | — | — | **$96.50** | — |
 
-**$66.25 over the tier's funding.** Every tier gives a fixed amount for parts, so this needs cutting back or a higher tier.
+**$66.50 over the tier's funding.** Every tier gives a fixed amount for parts, so this needs cutting back or a higher tier.
