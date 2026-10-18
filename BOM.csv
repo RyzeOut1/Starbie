@@ -1,13 +1,8 @@
-| Item | amount | cost (ea.) | Link |
-| :--- | :--- | :--- | :--- |
-| XIAO ESP32 C3 | 1 | 7.56 | [Link](https://www.mouser.ca/fr/ProductDetail/713-113991054) |
-| 0.96 OLED | 1 | 9.36 | [Link](https://www.mouser.ca/fr/ProductDetail/392-CSANAVIDISPLAY1) |
-| MPU6050 | 1 | 9.99 | [Link](https://www.amazon.ca/-/fr/WYTP09-WayinTop/dp/B07P5YXBXV/) |
-| DHT11 | 1 | 15.00 | [Link](https://www.amazon.ca/Module-température-dhumidité-Capteur-équipé/dp/BCD7957HS/) |
-| MX Switches | 4 | 1.70 | [Link](https://www.amazon.ca/Qancekoo-commutateurs-clavier-mécaniques-broches/dp/B0DSJ2FTRK/) |
-| Keycaps | 4 | 0.00 | [Link](https://www.amazon.ca/Qancekoo-commutateurs-clavier-mécaniques-broches/dp/B0DSJ2FTRK/) |
-| 10k Resistor | 1 | 8.00 | [Link](https://www.amazon.ca/HUABAN-Lot-résistances-film-carbone/dp/B0BRG12S6Y/) |
-| Shipping & Tax | 1 | 30.74 | [Link](https://www.amazon.ca/) |
-| PCB | 1 | 17.65 | [Link](https://www.jlcpcb.com/) |
-| | | | |
-| **Total (each kit)** | **1** | **100.00** | |
+Item,Qty,Supplier,Cost/item,Total Cost,link
+0.96 OLED Display,1,ANAVI,$9.36,$9.36,https://www.mouser.ca/fr/ProductDetail/392-CSANAVIDISPLAY1
+MPU6050 Gyroscope,1,WayinTop,$9.99,$9.99,https://www.amazon.ca/WayinTop-Gyroscope-Accelerometer-Converter-Arduino/dp/B07P5YXBXV
+DHT11 Sensor,1,DUTTY,$15.50,$15.50,https://www.amazon.ca/Module-temp%C3%A9rature-dhumidit%C3%A9-Capteur-%C3%A9quip%C3%A9/dp/B0CD7957HS/ref=sr_1_1_sspa?__mk_fr_CA=%C3%85M%C3%85%C5%BD%C3%95%C3%91&crid=F67QASOZTC6U&keywords=XIAO+ESP32+C3Capteur+d%27humidit%C3%A9+G45+DHT11&qid=1791258854&s=electronics&sprefix=xiao+esp32+c3capteur+d%27humidit%C3%A9+g45+dht11%2Celectronics%2C108&sr=1-1-spons&sp_csd=d2lkZ2V0TmFtZT1zcF9idGY&psc=1
+Mechanical Switches,1,Qancekoo,$6.79,$6.79,https://www.amazon.ca/Qancekoo-commutateurs-clavier-m%C3%A9caniques-broches/dp/B0DSJ2FTRK/ref=sr_1_4_sspa?__mk_fr_CA=%C3%85M%C3%85%C5%BD%C3%95%C3%91&crid=3E9PEIMNM8U4Q&dib=eyJ2IjoiMSJ9.SVWV5hm3-AfCOeRt5V5j2FDqUDy2Sc2AGnPEHysUjyGSTdCkUMo-e1mXQ9MI-4-xO3D7sUbYTiPj3wKg6UzbR4GG-M-HJQBpmsPFIuc3L0pkB_be5_TJp6_MMUZvWSzstV_On4VRseukpfd5D8pP4L8JHaB0CBsdD0cFO_yZnbslfHjT5FY9n0yxk9pNmVmARd_KvJEnSAoq89CM2CczCr1f2O5zMkccbLCPckHerC487oLAkQk384QFW6aKKFNvQvZYVNicNcdk7swVIvDeA3pMU8Kl99zjZX4hSvrLxr4.yHu44Vtxv-M3TDpjmm6knF53VFM-OgBt2WwwbVsq07o&dib_tag=se&keywords=Keyboard+Switches%2C+50+Pcs&qid=1791258910&sprefix=keyboard+switches%2C+50+pcs%2Caps%2C114&sr=8-4-spons&sp_csd=d2lkZ2V0TmFtZT1zcF9hdGY&psc=1
+10k Resistors,1,HUABAN,$8.00,$8.00,https://www.amazon.ca/HUABAN-Lot-r%C3%A9sistances-film-carbone/dp/B0BRG12S6Y/ref=sr_1_2_sspa?__mk_fr_CA=%C3%85M%C3%85%C5%BD%C3%95%C3%91&crid=EC20ORMXPY61&dib=eyJ2IjoiMSJ9.4VSn28md43cAKy4dw_PxeECWiFDfonwBvuH_nn0aYQJOeb8z6OnxJycps4lg3uQXF88mkAL-Kt8dPHDbE7WRkW2OpjTDOVvdHQLF6u57Yhs78qbU3sexbHSxyA8k5R7RRzpeXUqEMrsXnaryyIoIvJEB5ke_mI-ddmAjVzdT_aw7dew7r5vvC0XkOnXHFUVWwZjXiadE2BUCFd5JhCahRWdZzOFl9tPakBnb0PFz3J7Z-Hy-tkzyzRo2cCWSP8q8VNk0RR8_TtDXSN4pL3WH-fmhap9mkBpXmMjoFdoHa5U.31BoYaEzli6WFPtB_Ok0gGgmIJdW0CeiD2A34doj9P8&dib_tag=se&keywords=10k%2BResistor&qid=1791258979&sprefix=10k%2Bresistor%2Caps%2C123&sr=8-2-spons&sp_csd=d2lkZ2V0TmFtZT1zcF9hdGY&th=1
+PCB,1,PCB WAY,$5.00,$5.00,https://www.pcbway.com/QuickOrderOnline.aspx
+Estimated total shipping,1,,,$34.30,
