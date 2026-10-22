@@ -1,7 +1,7 @@
 Item,Qty,Supplier,Cost/item,Total Cost,link
 XIAO ESP32-C3,1,RobotShop Canada,$6.00,$6.00,https://www.robotshop.com/products/seeedstudio-xiao-esp32c3-tiny-mcu-w-wi-fi-ble
 0.96 OLED Display,1,Amazon.ca,$12.00,$12.00,https://www.amazon.ca
-MPU6050 Gyroscope,1,Universal-Solder Canada,$0.00,$0.00,https://www.universal-solder.ca/product/invensense-mpu-6050-6-axis-gyro-accelerometer-module/
+MPU6050 Gyroscope,1,Universal-Solder Canada,$3.69,$3.69,https://www.universal-solder.ca/product/invensense-mpu-6050-6-axis-gyro-accelerometer-module/
 DHT11 Sensor,1,RobotShop Canada,$0.00,$0.00,https://ca.robotshop.com/products/dht11-temperature-humidity-sensor-module
 MX Switches,2,Amazon.ca,$0.00,$0.00,https://www.amazon.ca
 Keycaps,2,Amazon.ca,$0.00,$0.00,https://www.amazon.ca
