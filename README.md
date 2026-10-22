@@ -14,3 +14,4 @@ Starbie features an OLED display, an MPU6050 accelerometer for tilt/shake contro
 - KiCad Project Files: Schematic and board files for the star-shaped layout.
 
 Thanks For the lecture, RyzeOut
+<img width="792" height="666" alt="image" src="https://github.com/user-attachments/assets/e8641781-135e-4700-8977-f83500833306" />
