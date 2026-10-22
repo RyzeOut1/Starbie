@@ -1,14 +1,10 @@
-### 📦 Bill of Materials (BOM)
-
-| Item | Qty | Supplier | Cost/item (CAD) | Total Cost (CAD) | Link |
-| :--- | :---: | :--- | :---: | :---: | :--- |
-| **XIAO ESP32-C3** | 1 | Seeed Studio / Digikey | $6.50 | $6.50 | [Link](https://www.digikey.ca) |
-| **0.96" OLED Display** | 1 | Amazon.ca | $7.00 | $7.00 | [Link](https://www.amazon.ca) |
-| **MPU6050 Gyroscope** | 1 | WayinTop / Amazon | $8.50 | $8.50 | [Link](https://www.amazon.ca/WayinTop-Gyroscope-Accelerometer-Converter-Arduino/dp/B07P5YXBXV) |
-| **DHT11 Sensor** | 1 | DUTTY / Amazon | $6.00 | $6.00 | [Link](https://www.amazon.ca) |
-| **MX Switches** | 2 | NovelKeys / Amazon | $1.00 | $2.00 | [Link](https://www.amazon.ca) |
-| **Keycaps** | 2 | Amazon.ca | $1.00 | $2.00 | [Link](https://www.amazon.ca) |
-| **Resistors (10k / 330)** | 2 | DigiKey / Amazon | $0.10 | $0.20 | [Link](https://www.digikey.ca) |
-| **PCB (Starbie Custom)** | 5 | PCBWay | $2.00 | $10.00 | [Link](https://www.pcbway.com/QuickOrderOnline.aspx) |
-| **Estimated Shipping** | 1 | Standard | - | $10.00 | *N/A* |
-| **Total Estimated** | | | | **~$42.20 CAD** | |
+Item,Qty,Supplier,Cost/item (CAD),Total Cost (CAD),Link
+XIAO ESP32-C3,1,Seeed Studio / Digikey,$6.50,$6.50,https://www.digikey.ca
+0.96 OLED Display,1,Amazon.ca,$7.00,$7.00,https://www.amazon.ca
+MPU6050 Gyroscope,1,WayinTop / Amazon,$8.50,$8.50,https://www.amazon.ca/WayinTop-Gyroscope-Accelerometer-Converter-Arduino/dp/B07P5YXBXV
+DHT11 Sensor,1,DUTTY / Amazon,$6.00,$6.00,https://www.amazon.ca
+MX Switches,2,NovelKeys / Amazon,$1.00,$2.00,https://www.amazon.ca
+Keycaps,2,Amazon.ca,$1.00,$2.00,https://www.amazon.ca
+Resistors (10k / 330),2,DigiKey / Amazon,$0.10,$0.20,https://www.digikey.ca
+PCB (Starbie Custom),5,PCBWay,$2.00,$10.00,https://www.pcbway.com/QuickOrderOnline.aspx
+Estimated Shipping,1,Standard,-,$10.00,N/A
