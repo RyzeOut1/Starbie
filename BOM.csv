@@ -1,14 +1,10 @@
-### 📦 Bill of Materials (BOM)
-
-| Item | Qty | Supplier (.ca / Canada) | Cost/item (CAD) | Total Cost (CAD) | Purchase Link |
-| :--- | :---: | :--- | :---: | :---: | :--- |
-| **XIAO ESP32-C3** | 1 | RobotShop Canada | $5.95 | $5.95 | [RobotShop.com](https://www.robotshop.com/products/seeedstudio-xiao-esp32c3-tiny-mcu-w-wi-fi-ble) |
-| **0.96" OLED Display (I2C)** | 1 | Amazon.ca | $7.99 | $7.99 | [Amazon.ca](https://www.amazon.ca) |
-| **MPU6050 Gyroscope** | 1 | Universal-Solder Canada / Amazon.ca | $3.50 | $3.50 | [Universal-Solder.ca](https://www.universal-solder.ca/product/invensense-mpu-6050-6-axis-gyro-accelerometer-module/) |
-| **DHT11 Temp & Humidity** | 1 | PiShop.ca / RobotShop | $5.70 | $5.70 | [RobotShop.com](https://ca.robotshop.com/products/dht11-temperature-humidity-sensor-module) |
-| **MX Switches (Cherry/Gateron)** | 2 | Amazon.ca | $1.25 | $2.50 | [Amazon.ca](https://www.amazon.ca) |
-| **Keycaps** | 2 | Amazon.ca | $1.00 | $2.00 | [Amazon.ca](https://www.amazon.ca) |
-| **Resistors (10k / 330Ω)** | 2 | DigiKey Canada / Amazon | $0.15 | $0.31 | [DigiKey.ca](https://www.digikey.ca) |
-| **PCB Custom (Starbie)** | 5 | PCBWay / JLCPCB | $2.00 | $10.00 | [PCBWay.com](https://www.pcbway.com) |
-| **Shipping (Local Standard)** | 1 | Expedited Canada | - | $5.00 | *Standard ground* |
-| **Total Estimated** | | | | **~$42.95 CAD** | |
+Item,Qty,Supplier,Cost/item (CAD),Total Cost (CAD),Link
+XIAO ESP32-C3,1,RobotShop Canada,$5.95,$5.95,https://www.robotshop.com/products/seeedstudio-xiao-esp32c3-tiny-mcu-w-wi-fi-ble
+0.96 OLED Display,1,Amazon.ca,$7.99,$7.99,https://www.amazon.ca
+MPU6050 Gyroscope,1,Universal-Solder Canada,$3.50,$3.50,https://www.universal-solder.ca/product/invensense-mpu-6050-6-axis-gyro-accelerometer-module/
+DHT11 Sensor,1,RobotShop Canada,$5.70,$5.70,https://ca.robotshop.com/products/dht11-temperature-humidity-sensor-module
+MX Switches,2,Amazon.ca,$1.25,$2.50,https://www.amazon.ca
+Keycaps,2,Amazon.ca,$1.00,$2.00,https://www.amazon.ca
+Resistors (10k / 330),2,DigiKey Canada,$0.15,$0.31,https://www.digikey.ca
+PCB (Starbie Custom),5,PCBWay,$2.00,$10.00,https://www.pcbway.com
+Shipping,1,Canada Standard,-,$5.00,N/A
